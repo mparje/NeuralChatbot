@@ -1,0 +1,6 @@
+model_checkpoint_path: "chatbot-32800"
+all_model_checkpoint_paths: "chatbot-32400"
+all_model_checkpoint_paths: "chatbot-32500"
+all_model_checkpoint_paths: "chatbot-32600"
+all_model_checkpoint_paths: "chatbot-32700"
+all_model_checkpoint_paths: "chatbot-32800"
