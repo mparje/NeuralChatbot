@@ -1,64 +1,19 @@
 HUMAN ++++ hi
-BOT ++++ i you ? ? ? ? ? ? ? ? ? ? ?
-HUMAN ++++ how are you
-BOT ++++ i ? ? ? ?
-HUMAN ++++ do you know about anything
-BOT ++++ i ? ? ?
-HUMAN ++++ what is this
-BOT ++++ you ? ? ? ? ? ? ? ? ? ?
-HUMAN ++++ who are you
-BOT ++++ i ? ? ?
-HUMAN ++++ i love you
-BOT ++++ i ? ? ? ? ? ? ? ? ? ? ?
+BOT ++++ is dead . . .
+HUMAN ++++ hello, how are you?
+BOT ++++ is fine . . .
+HUMAN ++++ wow great.
+BOT ++++ and <unk> .
+HUMAN ++++ what is your name?
+BOT ++++ .
+HUMAN ++++ you dont know your name i guess?
+BOT ++++ .
+HUMAN ++++ my name is vibha
+BOT ++++ gordon . . .
+HUMAN ++++ your name is gordon
+BOT ++++ ' s his brother .
+HUMAN ++++ oh your brother
+BOT ++++ .
 HUMAN ++++ bye
-BOT ++++ i i ? ? ? ? ? ? ? ? ? ? ?
-=============================================
-HUMAN ++++ hi
-BOT ++++ i you ? ? ? ? ? ? ? ? ? ? ?
-HUMAN ++++ hey
-BOT ++++ i you ? ? ? ? ?
-HUMAN ++++ hello
-BOT ++++ i you ? ? ? ?
-HUMAN ++++ how are you
-BOT ++++ i ? ? ? ?
-HUMAN ++++ nice to meet you
-BOT ++++ i ? ? ? ? ? ? ? ? ?
-=============================================
-HUMAN ++++ hi
-BOT ++++ .
-HUMAN ++++ how are you
-BOT ++++ .
-HUMAN ++++ hello
-BOT ++++ .
-HUMAN ++++ what are you doing
-BOT ++++ .
-HUMAN ++++ are you serious
-BOT ++++ .
-HUMAN ++++ what are you talking
-BOT ++++ .
-HUMAN ++++ what are you talking
-BOT ++++ .
-=============================================
-HUMAN ++++ hi
-BOT ++++ .
-HUMAN ++++ hello
-BOT ++++ .
-HUMAN ++++ how are you
-BOT ++++ .
-HUMAN ++++ how are you
-BOT ++++ .
-=============================================
-HUMAN ++++ hi
-BOT ++++ .
-HUMAN ++++ who are you
-BOT ++++ .
-HUMAN ++++ what is our name
-BOT ++++ .
-=============================================
-HUMAN ++++ hi
-BOT ++++ .
-HUMAN ++++ how are you
-BOT ++++ .
-HUMAN ++++ hello
-BOT ++++ .
+BOT ++++ ' s . . .
 =============================================
